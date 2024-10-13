@@ -2,6 +2,14 @@
 
 This project demonstrates the implementation of a chatbot that uses **Retrieval-Augmented Generation (RAG)** to efficiently answer email-related queries. By leveraging a **Pretrained Large Language Model (LLM)** for natural language processing, the chatbot can retrieve relevant emails from a dataset and generate accurate, fluent responses based on user input.
 
+## Example of RAG Response
+
+Below is an example of the chatbot retrieving a relevant email and generating a response based on the user's query:
+
+![RAG Response Example](images/rag_response_example.png)
+
+> *Screenshot showing the chatbot in action, retrieving email content and generating a response using RAG.*
+
 ## Features
 
 - **Natural Language Understanding**: The chatbot is capable of handling complex queries, thanks to the integration of a powerful LLM. This allows for a seamless interaction experience, making the bot effective in understanding and processing user intent.
